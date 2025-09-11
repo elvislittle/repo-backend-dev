@@ -1,2 +1,2 @@
-# repo-backend-dev
-Some python code
+# This is a dev python repository for backend developers.
+Created by Pavel Kaspiarovich
